@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Shop+:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Shop__jar</output-path>
+    <root id="archive" name="Shop+.jar">
+      <element id="module-output" name="Shop+" />
+      <element id="file-copy" path="$PROJECT_DIR$/config.yml" />
+      <element id="file-copy" path="$PROJECT_DIR$/plugin.yml" />
+    </root>
+  </artifact>
+</component>

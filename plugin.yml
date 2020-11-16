@@ -1,0 +1,7 @@
+name: ShopPlus
+main: com.DevHakSaeng.ShopPlus
+version: 1.0
+author: Stuudent
+commands:
+  상점관리:
+    description: ''
